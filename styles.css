@@ -106,12 +106,12 @@ button {
     align-items: center;
 }
 .one ,.two, .three, .four{
-    width: 8vw;
+    width: 9vw;
    
 }
 .One ,.Two, .Three, .Four{
     border:2px solid blue;
-    width: 8vw;
+    width: 9vw;
     height: 13vh;
     border-radius: 15px;
 }
